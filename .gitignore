@@ -1,0 +1,26 @@
+# Distribution / packaging
+.Python
+./build/*
+dis
+dist-ssr
+coverage
+*.local
+
+# rust
+target
+
+# Environments
+.env
+.venv
+
+
+# mkdocs documentation
+/site
+
+.idea
+/.vscode
+
+.DS_Store
+__pycache__
+
+node_modules
