@@ -3,5 +3,5 @@ fn main() {
     let y = 10;
     let z = 10; //warning: unused variable: `z`
 
-    println!("{}", y)
+    println!("{}", y)未使用
 }
